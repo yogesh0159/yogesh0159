@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,55:1e3a8a,100:6366f1&text=Yogesh%20Chavan&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20ERP%20%26%20Business%20Software%20%C2%B7%20Desktop%20Apps%20%C2%B7%203D%20Web&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Yogesh Chavan - Full-Stack Developer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+software+that+runs+real+businesses;ERP+systems+%C2%B7+Attendance+%26+Payroll+%C2%B7+Billing;PHP+8.5+%2B+MySQL+8.4+%C2%B7+Node.js+%2B+Express;Windows+desktop+apps+with+Electron;GitHub+%E2%86%92+AWS+automatic+deployments;Three.js+3D+learning+games" alt="What I build" />
+<img src="assets/header.svg" width="100%" alt="Yogesh Chavan - Full-Stack Developer · ERP &amp; Business Software · Desktop Apps · 3D Web" />
 
 <br/>
 
@@ -105,13 +103,30 @@ The official website of a mobile and electronics store.
 <div align="center">
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,threejs&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap, jQuery, Three.js" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 
 **Backend & databases**<br/>
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,sqlite&theme=dark" alt="PHP, Node.js, Express, MySQL, SQLite" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
 **Desktop, cloud & tools**<br/>
-<img src="https://skillicons.dev/icons?i=electron,aws,ubuntu,linux,bash,githubactions,git,github,vscode&theme=dark" alt="Electron, AWS, Ubuntu, Linux, Bash, GitHub Actions, Git, GitHub, VS Code" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 
 </div>
 
@@ -129,14 +144,9 @@ The official website of a mobile and electronics store.
 
 ---
 
-## GitHub activity
+## Contribution activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yogesh0159&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=yogesh0159&hide_border=true&theme=tokyonight" alt="Contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh0159&hide_border=true&area=true&theme=tokyo-night" width="100%" alt="Contribution graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogesh0159/yogesh0159/output/github-contribution-grid-snake-dark.svg" />
@@ -158,4 +168,4 @@ Need an ERP, a business app or a website? Get in touch through **[shivyoginfotec
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:6366f1,45:1e3a8a,100:0f172a" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />

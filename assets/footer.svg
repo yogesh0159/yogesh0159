@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="">
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b2f8f"/>
+      <stop offset="0.5" stop-color="#14245a"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .a { animation: d 12s ease-in-out infinite alternate; } .b { animation: d 9s ease-in-out infinite alternate-reverse; }
+    @keyframes d { from { transform: translateX(0); } to { transform: translateX(-160px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g class="b" opacity="0.45"><path d="M0 40 C 150 10 300 70 450 40 S 750 10 900 40 S 1200 70 1360 40 V110 H0 Z" fill="#38bdf8"/></g>
+  <g class="a"><path d="M0 58 C 160 30 320 86 480 58 S 800 30 960 58 S 1280 86 1440 58 V110 H0 Z" fill="url(#f)"/></g>
+</svg>
