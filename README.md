@@ -168,4 +168,4 @@ Need an ERP, a business app or a website? Get in touch through **[shivyoginfotec
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />  
